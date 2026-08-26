@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Raja Kumar
 
-<!--
-**rajaroy543214-ai/rajaroy543214-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Machine Learning Enthusiast | Mechanical Engineering Student
 
-Here are some ideas to get you started:
+I am a Mechanical Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy building practical AI/ML projects and exploring how technology can solve real-world engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Mechanical Engineering student specializing in AI/ML
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Working with Python and Data Science
+- 🔧 Interested in AI applications in Mechanical Engineering
+- 📚 Currently improving my skills in AI, ML, Data Science & DSA
+- 💡 Passionate about building practical projects
+
+## 🛠️ Skills
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- NumPy
+- Pandas
+- Git & GitHub
+- FastAPI
+
+## 📌 Projects
+
+- 🤖 AI/ML Projects
+- 🔧 Smart Sensor & Automation Projects
+- 🏭 Prescriptive Maintenance RAG Agent
+- 🩺 AI-powered Healthcare Projects
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/raja-kumar-aa2aa436a)
+- [GitHub](raja543214-ai)
